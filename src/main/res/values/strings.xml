@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ustock</string>
+    <string name="title_activity_staff">StaffActivity</string>
+    <string name="title_activity_manager">ManagerActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="SelectOne">Select </string>
+    <string name="action_settings">Settings</string>
+    <string name="delete">Delete product</string>
+
+
+</resources>
